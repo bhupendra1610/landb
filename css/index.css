@@ -1,0 +1,43 @@
+*{
+    margin:0;     font-family: 'Poppins', sans-serif;
+    
+
+
+}
+.navm{
+     padding:0;
+    background-color:#0A253B; 
+    /* background-color: #042a3b;  //navcolor */
+}
+/* .imgc{
+    background-color:black;
+} */
+body{
+   margin: 0;
+}
+.size{
+    margin:0;
+    padding:0;
+}
+.tex{
+    padding: 4px;
+}
+.navtag{
+    font-size: 24px;
+}
+.fg{
+    color: #042a3b;
+}
+.color{
+    background-color:#0A253B;
+}
+.icons{
+    margin-right: 23px;
+}
+.lb{
+    font-size: 20px;
+
+}
+.kk{
+    font-size:20px;
+}
